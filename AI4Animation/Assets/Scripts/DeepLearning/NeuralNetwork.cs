@@ -8,7 +8,7 @@ namespace DeepLearning {
 
 	public abstract class NeuralNetwork : MonoBehaviour {
 
-		public string Folder = "";
+		public string Folder = "/Users/zhiz/Dev/AI4Animation/AI4Animation/Assets/Scripts/DeepLearning/NN_Original_PFNN";
         public string Destination = "";
         public Parameters Parameters = null;
 
